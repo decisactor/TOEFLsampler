@@ -1,0 +1,16 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533841.txt</TPPassage>
+<Paragraph>5</Paragraph>
+<TPTopScrollLine>39</TPTopScrollLine>
+<Stem>According to paragraph 5, if the man pictured with the birdlike head is not a shaman, he may have worn the headmask</Stem>
+<Distractor_list>
+  <Distractor>to look like an animal while a hunt took place</Distractor>
+  <Distractor>to frighten off other hunters competing for food</Distractor>
+  <Distractor>to prove that he is not a shaman</Distractor>
+  <Distractor>to resist forces of nature thought to be present in animals</Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key> 1</Key>
+</TestItem>

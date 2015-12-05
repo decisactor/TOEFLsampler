@@ -1,0 +1,16 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<Paragraph>7</Paragraph>
+<TPTopScrollLine>42</TPTopScrollLine>
+<TPPassage>VB536044.txt</TPPassage>
+<Stem>All of the following are mentioned in paragraph 7 as contributing to the longevity of an oak tree EXCEPT</Stem>
+<Distractor_list>
+  <Distractor>the capacity to create shade</Distractor>
+  <Distractor>leaves containing tannin</Distractor>
+  <Distractor>the ability to withstand mild droughts and fire</Distractor>
+  <Distractor>the large number of acorns the tree produces</Distractor>
+</Distractor_list>
+
+<Key> 4</Key>
+</TestItem>

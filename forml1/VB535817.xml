@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB496835</itemGroup>
+<Stem>Why will the woman stop by the professor's office on Friday morning?</Stem>
+<StemWav>VB535817_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>To return the video to the professor</Distractor>
+  <Distractor>To get the video from the professor</Distractor>
+  <Distractor>To hand in an assignment to the professor</Distractor>
+  <Distractor>To discuss the handouts with the professor</Distractor>
+</Distractor_list>
+<Key>2</Key>
+</TestItem>

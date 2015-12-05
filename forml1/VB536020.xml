@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<TPPassage>VB536020.txt</TPPassage>
+<Stem>The word |dispersal| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>development</Distractor>
+  <Distractor>growth</Distractor>
+  <Distractor>distribution</Distractor>
+  <Distractor>protection</Distractor>
+</Distractor_list>
+
+<Key> 3</Key>
+</TestItem>

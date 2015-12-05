@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533835.txt</TPPassage>
+<Paragraph>2</Paragraph>
+<Stem>What can be inferred from paragraph 2 about cave painters in France and Spain?</Stem>
+<Distractor_list>
+  <Distractor>They also painted rocks outside caves.</Distractor>
+  <Distractor>They did not live close to the cave entrances.</Distractor>
+  <Distractor>They developed their own sources of light to use while painting.</Distractor>
+  <Distractor>Their painting practices did not last for many years.</Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key> 3</Key>
+</TestItem>

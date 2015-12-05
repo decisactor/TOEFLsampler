@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503242</itemGroup>
+<Paragraph>1</Paragraph>
+<TPPassage>VB533993.txt</TPPassage>
+<Stem>Based on the information in paragraph 1, which of the following best explains the term wind farms?</Stem>
+<Distractor_list>
+  <Distractor>Farms using windmills to pump water</Distractor>
+  <Distractor>Research centers exploring the uses of wind</Distractor>
+  <Distractor>Types of power plant common in North Dakota</Distractor>
+  <Distractor>Collections of wind turbines producing electric power</Distractor>
+</Distractor_list>
+
+<Key> 4</Key>
+</TestItem>

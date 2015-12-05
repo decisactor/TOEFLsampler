@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB496835</itemGroup>
+<Stem>Why does the woman go to see her professor?</Stem>
+<StemWav>VB535815_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>To get materials for a class she missed</Distractor>
+  <Distractor>To discuss an assignment she is working on</Distractor>
+  <Distractor>To ask a question about a video her class recently watched</Distractor>
+  <Distractor>To inform the professor of changes in her schedule</Distractor>
+</Distractor_list>
+<Key>1</Key>
+</TestItem>

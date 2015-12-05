@@ -1,0 +1,140 @@
+<TestItem CLASS="ListOfQuestions" USERSFORMDATALOCATION="c:\data_from_forms\">
+
+
+
+
+
+<TESTLET LABEL="Sampler" TEST_QUIT_BUTTON="0" TIMELABEL="0">
+  	<TestItemName>SAMPLER_GENERAL_INFO</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Reading" TEST_QUIT_BUTTON="0" TIMELABEL="0">
+  	<TestItemName>DIRECTIONS_READING_INTRO_SOLO</TestItemName>
+         	<TestItemName>DIRECTIONS_READ_SOLO</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="0" NUMBQUESTS="13" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="0" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="0" SECTION_EXIT_BUTTON="1">
+		<TestItemName>VB501739.xml</TestItemName>	
+		<TestItemName>VB533831.xml</TestItemName>	
+		<TestItemName>VB533832.xml</TestItemName>	
+		<TestItemName>VB533833.xml</TestItemName>	
+		<TestItemName>VB533834.xml</TestItemName>	
+		<TestItemName>VB533835.xml</TestItemName>	
+		<TestItemName>VB533837.xml</TestItemName>	
+		<TestItemName>VB533838.xml</TestItemName>	
+		<TestItemName>VB533839.xml</TestItemName>	
+		<TestItemName>VB533840.xml</TestItemName>	
+		<TestItemName>VB533841.xml</TestItemName>	
+		<TestItemName>VB533982.xml</TestItemName>	
+		<TestItemName>VB533983.xml</TestItemName>
+		<TestItemName>VB533985.xml</TestItemName>
+</TESTLET>
+
+<TestItem CLASS="ListOfQuestions">
+ 
+
+<TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="0" NUMBQUESTS="14" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="0" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="0" SECTION_EXIT_BUTTON="1">
+		<TestItemName>VB503242.xml</TestItemName>	
+		<TestItemName>VB533993.xml</TestItemName>	
+		<TestItemName>VB533994.xml</TestItemName>	
+		<TestItemName>VB533995.xml</TestItemName>	
+		<TestItemName>VB533997.xml</TestItemName>	
+		<TestItemName>VB533998.xml</TestItemName>	
+		<TestItemName>VB534000.xml</TestItemName>	
+		<TestItemName>VB534001.xml</TestItemName>	
+		<TestItemName>VB535805.xml</TestItemName>	
+		<TestItemName>VB535806.xml</TestItemName>	
+		<TestItemName>VB535808.xml</TestItemName>	
+		<TestItemName>VB535809.xml</TestItemName>	
+		<TestItemName>VB535810.xml</TestItemName>	
+		<TestItemName>VB535813.xml</TestItemName>	
+<		<TestItemName>VB535814.xml</TestItemName>	
+</TESTLET>
+<TestItem CLASS="ListOfQuestions">
+ 
+
+<TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="0" NUMBQUESTS="12" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="0" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1"ON INTROPASSAGE="politics.txt" TEST_QUIT_BUTTON="0" SECTION_EXIT_BUTTON="1">
+		<TestItemName>VB510653.xml</TestItemName>	
+		<TestItemName>VB535913.xml</TestItemName>	
+		<TestItemName>VB536017.xml</TestItemName>	
+		<TestItemName>VB536018.xml</TestItemName>	
+		<TestItemName>VB536019.xml</TestItemName>	
+		<TestItemName>VB536020.xml</TestItemName>	
+		<TestItemName>VB536042.xml</TestItemName>	
+		<TestItemName>VB536043.xml</TestItemName>	
+		<TestItemName>VB536044.xml</TestItemName>	
+		<TestItemName>VB536045.xml</TestItemName>	
+		<TestItemName>VB536046.xml</TestItemName>	
+		<TestItemName>VB536047.xml</TestItemName>	
+<		<TestItemName>VB536048.xml</TestItemName>	
+</TESTLET>
+
+
+<TESTLET LABEL="Listening" TEST_QUIT_BUTTON="0" SECTION_EXIT_BUTTON="1"> <TestItemName>HEADSET_ON</TestItemName> </TESTLET>
+
+<TESTLET LABEL="Volume" VOL_AVAIL="1" TEST_QUIT_BUTTON="0" SECTION_EXIT_BUTTON="0">
+  	 	<TestItemName>DIRECTIONS_VOLUME</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Listening" VOL_AVAIL="1" TEST_QUIT_BUTTON="0" SECTION_EXIT_BUTTON="1">
+  	 	<TestItemName>DIRECTIONS_LISTENING_SECTION_SAMPLER</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Listening" TIME="600" NUMBQUESTS="11" OK_AVAIL="1" VOL_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="0" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1" SECTION_EXIT_BUTTON="1">
+		<TestItemName>VB496835.xml</TestItemName>
+		<TestItemName>VB535815.xml</TestItemName>
+		<TestItemName>VB535816.xml</TestItemName>
+		<TestItemName>VB535817.xml</TestItemName>
+		<TestItemName>VB535818.xml</TestItemName>
+		<TestItemName>VB535819.xml</TestItemName>
+</TESTLET>
+
+<TESTLET LABEL="Listening" VOL_AVAIL="1" SKIP_IF_LEFTOVER_NULL="1" TEST_QUIT_BUTTON="0">
+  	 	<TestItemName>DIRECTIONS_LECTURE_SOLO</TestItemName>
+</TESTLET>
+
+<TESTLET LABEL="Listening" TIME="LEFT_OVER" NUMBQUESTS="11" QUESTBEGIN="6" OK_AVAIL="1" VOL_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="0" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0" REVIEW_SAMPLER_AVAIL="1" SHOW_ANSWER="1" SECTION_EXIT_BUTTON="1">
+		<TestItemName>VB503560.xml</TestItemName>
+		<TestItemName>VB501972.xml</TestItemName>
+		<TestItemName>VB501973.xml</TestItemName>
+		<TestItemName>VB501975.xml</TestItemName>
+		<TestItemName>VB501978.xml</TestItemName>
+		<TestItemName>VB501971.xml</TestItemName>
+		<TestItemName>VB501977.xml</TestItemName>
+</TESTLET>
+
+ 
+<TESTLET LABEL="Speaking" VOL_AVAIL="1" TEST_QUIT_BUTTON="0" SECTION_EXIT_BUTTON="1">
+  	 	<TestItemName>DIRECTIONS_SPEAKING_SECTION_SAMPLER</TestItemName>
+</TESTLET>
+
+<TESTLET LABEL="Speaking" VOL_AVAIL="1" NUMBQUESTS="3" QUESTBEGIN="1" TEST_QUIT_BUTTON="0" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0" MINIPASSAGE_UNTIMED="0" REVIEW_SAMPLER_AVAIL="1">
+    		<TestItemName>VB531097.xml</TestItemName>
+		<TestItemName>VB531099.xml</TestItemName>
+		<TestItemName>VB531100.xml</TestItemName>
+</TESTLET>
+
+ 
+<TESTLET LABEL="Writing" VOL_AVAIL="1" TEST_QUIT_BUTTON="0"  >
+  	 	<TestItemName>DIRECTIONS_WRITING_SECTION</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Writing" VOL_AVAIL="1" NUMBQUESTS="2" QUESTBEGIN="1" SOLOLECTURE="1" TEST_QUIT_BUTTON="0" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0" MINIPASSAGE_UNTIMED="0">
+		<TestItemName>VB531092.xml</TestItemName>
+</TESTLET>
+
+<TESTLET LABEL="Writing" NUMBQUESTS="2" QUESTBEGIN="2" TEST_QUIT_BUTTON="0" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0" MINIPASSAGE_UNTIMED="0">
+                <TestItemName>VB531091.xml</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Sampler" TEST_QUIT_BUTTON="0" TIMELABEL="0">
+  	<TestItemName>SAMPLER_ENDING</TestItemName>
+</TESTLET>
+
+

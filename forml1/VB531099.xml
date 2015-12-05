@@ -1,0 +1,25 @@
+<TestItem CLASS="speaking_fake_sampler" METHOD="list" TIMELIMIT="60" PREPLIMIT="30" SHOWDIRECTIONS="FALSE">
+<skillDimension>unknown</skillDimension>
+<itemGroup></itemGroup>
+<Stem>The professor describes the behavior of horses and antelope in herds. Explain how their behavior is related to their suitability for domestication.</Stem>
+<StemWav>VB531099_a04.wav</StemWav>
+<miniPassage>
+  <miniPassageIntroSound>VB531099_a01.wav</miniPassageIntroSound>
+  <miniPassageIntroPic>headphon_jpg.jpg</miniPassageIntroPic>
+  <miniPassageDuration>45</miniPassageDuration>
+  <miniPassageTitle>Animal Domestication</miniPassageTitle>
+  <miniPassageText>For thousands of years, humans have been able to domesticate, or tame, many large mammals that in the wild live together in herds. Once tamed, these mammals are used for agricultural work and transportation. Yet some herd mammals are not easily domesticated.             </miniPassageText>
+</miniPassage>
+
+<miniLecture>
+  <LecturePicture>Llpsca02_jpg.jpg</LecturePicture>
+  <LecturePicture>Llpsca02_jpg.jpg</LecturePicture>
+  <LecturePicture>GetRead3_gif.gif</LecturePicture>
+  <LectureSound>VB531099_a02.wav</LectureSound>
+  <LectureSound>VB531099_a03.wav</LectureSound>
+</miniLecture>
+<Distractor_list>
+</Distractor_list>
+<ExampleWav>VB531099_example.wav</ExampleWav>
+<ExampleDescription>This is a low-level response. Pronunciation is a particular problem for the speaker. Several key words and phrases are unclear. This requires considerable listener effort and, at times, causes some confusion about meaning. The speaker is very slow getting started and he makes numerous false starts. Eventually, he is able to talk about some of the key information from the reading and listening material but he struggles to convey the information correctly.</ExampleDescription>
+</TestItem>

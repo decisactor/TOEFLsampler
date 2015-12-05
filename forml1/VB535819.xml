@@ -1,0 +1,19 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB496835</itemGroup>
+<Stem>What can be inferred about the professor?</Stem>
+<StemWav>VB535819_a03.wav</StemWav>
+<miniLecture>
+  <LecturePicture>RplayCon_gif.gif</LecturePicture>
+  <LecturePicture>Poff02_jpg.jpg</LecturePicture>
+  <LectureSound>VB535819_a01.wav</LectureSound>
+  <LectureSound>VB535819_a02.wav</LectureSound>
+</miniLecture>
+<Distractor_list>
+  <Distractor>He is not planning to talk about the handouts now. </Distractor>
+  <Distractor>He expects the woman to respond to questions in the handouts.</Distractor>
+  <Distractor>He is concerned that the handouts may be difficult to understand.</Distractor>
+  <Distractor>He is not sure if he has the handouts the woman needs.</Distractor>
+</Distractor_list>
+<Key>1</Key>
+</TestItem>

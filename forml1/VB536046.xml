@@ -1,0 +1,16 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<TPPassage>VB536046.txt</TPPassage>
+<Paragraph>7</Paragraph>
+<TPTopScrollLine>42</TPTopScrollLine>
+<Stem>In paragraph 7, the author suggests that most species of organisms</Stem>
+<Distractor_list>
+  <Distractor>are primarily opportunists</Distractor>
+  <Distractor>are primarily competitors</Distractor>
+  <Distractor>begin as opportunists and evolve into competitors</Distractor>
+  <Distractor>have some characteristics of opportunists and some of competitors</Distractor>
+</Distractor_list>
+
+<Key> 4</Key>
+</TestItem>

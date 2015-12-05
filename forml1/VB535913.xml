@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<TPPassage>VB535913.txt</TPPassage>
+<Stem>The word |squander| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>extend</Distractor>
+  <Distractor>transform</Distractor>
+  <Distractor>activate</Distractor>
+  <Distractor>waste</Distractor>
+</Distractor_list>
+
+<Key> 4</Key>
+</TestItem>

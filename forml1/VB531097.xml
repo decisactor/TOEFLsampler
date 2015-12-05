@@ -1,0 +1,10 @@
+<TestItem CLASS="speaking_fake_sampler" METHOD="list" TIMELIMIT="45" PREPLIMIT="15" SHOWDIRECTIONS="FALSE">
+<skillDimension>unknown</skillDimension>
+<itemGroup></itemGroup>
+<Stem>Some universities require first-year students to live in dormitories on campus. Others allow students to live off campus. Which policy do you think is better for first-year students and why? Include details and examples in your explanation. </Stem>
+<StemWav>VB531097_a02.wav</StemWav>
+<ExampleWav>VB531097_example.wav</ExampleWav>
+<ExampleDescription>This is a mid-level response. The speaker has good pronunciation but speaks at a very slow and awkward pace. He pauses often, perhaps to think about what to say. He has a fairly good command of grammar and vocabulary and is able to express ideas fairly easily. He does provide some relevant information but in general, the topic is not sufficiently well developed to score at the highest level. In general, the slow, choppy pace affects his overall fluency and his ability to communicate sufficient information in the time allotted.</ExampleDescription>
+<Distractor_list>
+</Distractor_list>
+</TestItem>

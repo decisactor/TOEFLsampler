@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<TPPassage>VB536017.txt</TPPassage>
+<Stem>The word  |none| in the passage refers to</Stem>
+<Distractor_list>
+  <Distractor>food</Distractor>
+  <Distractor>plant or animal</Distractor>
+  <Distractor>energy</Distractor>
+  <Distractor>big body</Distractor>
+</Distractor_list>
+
+<Key> 3</Key>
+</TestItem>

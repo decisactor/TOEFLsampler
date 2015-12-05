@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533839.txt</TPPassage>
+<Paragraph>4</Paragraph>
+<Stem>According to paragraph 4, why do some scholars believe that the paintings were related to hunting?</Stem>
+<Distractor_list>
+  <Distractor>Because some tools used for painting were also used for hunting</Distractor>
+  <Distractor>Because cave inhabitants were known to prefer animal food rather than plant food</Distractor>
+  <Distractor>Because some of the animals are shown wounded by weapons</Distractor>
+  <Distractor>Because many hunters were also typically painters</Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key> 3</Key>
+</TestItem>

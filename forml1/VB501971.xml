@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503560</itemGroup>
+<Stem>What does the professor mainly discuss?</Stem>
+<StemWav>VB501971_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>The way the crystals combine to form rocks</Distractor>
+  <Distractor>The composition of the Earth's crust</Distractor>
+  <Distractor>A problem with an experimental model of crystallization</Distractor>
+  <Distractor>A process of mineral formation in molten rock</Distractor>
+</Distractor_list>
+<Key>4</Key>
+</TestItem>

@@ -1,0 +1,39 @@
+<TestItem CLASS="draggy" METHOD="list">
+<TPviewtext PASSAGE="VB533985.txt">
+</TPviewtext>
+<tpFont>Arial,12,0</tpFont>
+<QuestBmp>VB533985.bmp</QuestBmp>
+<Comment>Drag your answer choices to the spaces where they belong.</Comment>
+<tpObject_list>
+     <tpObject>43,574,454,0,The paintings may have recorded information about animal migrations, and may only have been useful for one migration at a time.</tpObject>
+     <tpObject>534,571,444,0,Unlike painters of the recently discovered paintings, other Lascaux cave painters usually painted on rocks near cave entrances or in open spaces outside the caves.</tpObject>
+     <tpObject>44,649,454,0,The human figures represented in the paintings appear to be less carefully shaped than those of animals.</tpObject>
+     <tpObject>534,650,425,0,Some scholars believe that the paintings motivated hunters by allowing them to picture a successful hunt.</tpObject>
+     <tpObject>43,728,466,0,It is possible that the animals in the paintings were of mythical significance to the tribe, and the paintings reflected an important spiritual practice.</tpObject>
+     <tpObject>534,729,434,0,Scientific analysis suggests that paintings were sprayed onto the rock walls with tubes made from animal bones.</tpObject>
+</tpObject_list>
+<offset>-115,-72</offset>
+<bucketSize>692,137</bucketSize>
+<tpBucket_list>
+     <tpBucket>297,321</tpBucket>
+     <tpBucket>297,407</tpBucket>
+     <tpBucket>297,495</tpBucket>
+     <tpBucket>38,574</tpBucket>
+     <tpBucket>529,571</tpBucket>
+     <tpBucket>39,649</tpBucket>
+     <tpBucket>529,650</tpBucket>
+     <tpBucket>38,728</tpBucket>
+     <tpBucket>529,729</tpBucket>
+</tpBucket_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key></Key>
+
+<specialShowAnswer>1,4,5,0,2,3,0,0,6,</specialShowAnswer>
+<Key>2;NO_ORDER,1,4,5</Key>
+<Key>1;NO_ORDER,*,4,5</Key>
+<Key>1;NO_ORDER,1,*,5</Key>
+<Key>1;NO_ORDER,1,4,*</Key>
+
+
+
+</TestItem>

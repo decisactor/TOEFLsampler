@@ -1,0 +1,16 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533840.txt</TPPassage>
+<Paragraph>5</Paragraph>
+<TPTopScrollLine>39</TPTopScrollLine>
+<Stem>According to paragraph 5, why do some scholars refer to a trance state to help understand the cave paintings?</Stem>
+<Distractor_list>
+  <Distractor>To explain the state of consciousness the artists were in when they painted their pictures</Distractor>
+  <Distractor>To demonstrate the mythical significance of the strange geometric shapes</Distractor>
+  <Distractor>To indicate that trance states were often associated with activities that took place inside caves</Distractor>
+  <Distractor>To give a possible reason for the strange appearance of the men painted on the cave walls</Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key> 4</Key>
+</TestItem>

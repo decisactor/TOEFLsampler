@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503242</itemGroup>
+<TPPassage>VB533994.txt</TPPassage>
+<Stem>The word |emit| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>use</Distractor>
+  <Distractor>require</Distractor>
+  <Distractor>release</Distractor>
+  <Distractor>destroy</Distractor>
+</Distractor_list>
+
+<Key> 3</Key>
+</TestItem>

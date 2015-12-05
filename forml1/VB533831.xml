@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533831.txt</TPPassage>
+<Stem>The word |others|  in the passage refers to</Stem>
+<Distractor_list>
+  <Distractor>chambers</Distractor>
+  <Distractor>paintings</Distractor>
+  <Distractor>beasts</Distractor>
+  <Distractor>parades</Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key> 3</Key>
+</TestItem>

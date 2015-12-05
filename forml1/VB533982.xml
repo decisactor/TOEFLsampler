@@ -1,0 +1,16 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533982.txt</TPPassage>
+<Paragraph>6</Paragraph>
+<TPTopScrollLine>59</TPTopScrollLine>
+<Stem>According to paragraph 6, why might the puzzling questions about the paintings never be answered?</Stem>
+<Distractor_list>
+  <Distractor>Keeping the paintings a mystery will increase their importance. </Distractor>
+  <Distractor>The artists hid their tools with great intelligence and skill.</Distractor>
+  <Distractor>Too many years have gone by since the images were painted.</Distractor>
+  <Distractor>Answering the questions is not very important to scholars.</Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key> 3</Key>
+</TestItem>

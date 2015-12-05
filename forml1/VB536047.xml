@@ -1,0 +1,12 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<TPPassage>VB536047.txt</TPPassage>
+<TPTopScrollLine>36</TPTopScrollLine>
+<Stem>Look at the four squares [ |   | ] that indicate where the following sentence can be added to the passage.</Stem>
+<Distractor_list>
+   <Distractor>Such episodic events will cause a population of dandelions, for example, to vary widely. </Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

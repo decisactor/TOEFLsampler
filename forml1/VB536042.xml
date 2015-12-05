@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<TPPassage>VB536042.txt</TPPassage>
+<Stem>Which of the sentences below best expresses the essential information in the highlighted sentence in the passage?  Incorrect choices change the meaning in important ways or leave out essential information.</Stem>
+<Distractor_list>
+  <Distractor> Because their seeds grow in places where competing plants are no longer present, dandelions are classified as opportunists.</Distractor>
+  <Distractor>Dandelions are called opportunists because they contribute to the natural processes of erosion and the creation of gaps in the forest canopy.</Distractor>
+  <Distractor>The term opportunists applies to plants whose seeds fall in places where they can compete with the seeds of other plants.</Distractor>
+  <Distractor>The term opportunists applies to plants whose falling seeds are removed by natural processes.</Distractor>
+</Distractor_list>
+
+<Key> 1</Key>
+</TestItem>

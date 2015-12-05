@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503242</itemGroup>
+<TPPassage>VB534000.txt</TPPassage>
+<Paragraph>4</Paragraph>
+<Stem>According to paragraph 4,  what can be inferred about the problems of visual pollution and noise associated with wind farms?</Stem>
+<Distractor_list>
+  <Distractor>Both problems affect the efficiency of wind farms.</Distractor>
+  <Distractor>Possible solutions are known for both problems.</Distractor>
+  <Distractor>Wind power creates more noise than visual pollution.</Distractor>
+  <Distractor>People are more concerned about visual pollution than noise.</Distractor>
+</Distractor_list>
+
+<Key> 2</Key>
+</TestItem>

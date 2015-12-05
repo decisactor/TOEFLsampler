@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<TPPassage>VB536045.txt</TPPassage>
+<Stem>According to the passage, oak trees are considered competitors because</Stem>
+<Distractor_list>
+  <Distractor>they grow in areas free of opportunists</Distractor>
+  <Distractor>they spend more energy on their leaves, trunks and roots than on their acorns</Distractor>
+  <Distractor>their population tends to increase or decrease in irregular cycles</Distractor>
+  <Distractor>unlike other organisms, they do not need much water or sunlight</Distractor>
+</Distractor_list>
+
+<Key> 2</Key>
+</TestItem>

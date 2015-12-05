@@ -1,0 +1,20 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503560</itemGroup>
+<StupidAudioFile>VB501977_a04.wav</StupidAudioFile>
+<Stem>Why does the professor say this: </Stem>
+<StemWav>VB501977_a03.wav</StemWav>
+<miniLecture>
+  <LecturePicture>RplayLec_gif.gif</LecturePicture>
+  <LecturePicture>LMpspc01_jpg.jpg</LecturePicture>
+  <LectureSound>VB501977_a01.wav</LectureSound>
+  <LectureSound>VB501977_a02.wav</LectureSound>
+</miniLecture>
+<Distractor_list>
+  <Distractor>To emphasize a point he made earlier</Distractor>
+  <Distractor>To remind students of the order of steps in the experiment</Distractor>
+  <Distractor>To ask if students understand Bowen's conclusion</Distractor>
+  <Distractor>To define a term</Distractor>
+</Distractor_list>
+<Key>1</Key>
+</TestItem>

@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533838.txt</TPPassage>
+<TPTopScrollLine>32</TPTopScrollLine>
+<Stem>The word |accompanied| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>represented</Distractor>
+  <Distractor>developed into</Distractor>
+  <Distractor>were associated with</Distractor>
+  <Distractor>came after</Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key> 3</Key>
+</TestItem>

@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<TPPassage>VB536018.txt</TPPassage>
+<Paragraph>1</Paragraph>
+<Stem>In paragraph 1, the author explains the concept of energy expenditure by</Stem>
+<Distractor_list>
+  <Distractor> identifying types of organisms that became extinct</Distractor>
+  <Distractor>comparing the scientific concept to a familiar human experience</Distractor>
+  <Distractor>arguing that most organisms conserve rather than expend energy</Distractor>
+  <Distractor>describing the processes of growth, reproduction, and metabolism</Distractor>
+</Distractor_list>
+
+<Key> 2</Key>
+</TestItem>

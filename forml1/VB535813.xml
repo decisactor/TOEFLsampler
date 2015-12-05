@@ -1,0 +1,11 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503242</itemGroup>
+<TPPassage>VB535813.txt</TPPassage>
+<Stem>Look at the four squares [ |   | ] that indicate where the following sentence can be added to the passage.</Stem>
+<Distractor_list>
+   <Distractor>Some companies in the power industry are aware of this wider possibility and are planning sizable wind-farm projects in states other than California. </Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

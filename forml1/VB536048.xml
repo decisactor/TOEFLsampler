@@ -1,0 +1,106 @@
+<TestItem CLASS="draggy_table" METHOD="list">
+<TPviewtext PASSAGE="VB536048.txt">
+</TPviewtext>
+<tpFont>Arial,12,0</tpFont>
+<QuestBmp>VB536048.bmp</QuestBmp>
+<Comment>Drag your answer choices to the spaces where they belong.</Comment>
+<tpObject_list>
+     <tpObject>43,574,454,0,Vary frequently the amount of energy they spend in body maintenance</tpObject>
+     <tpObject>534,571,444,0,Have mechanisms for protecting themselves from predation</tpObject>
+     <tpObject>44,624,454,0,Succeed in locations where other organisms have been removed</tpObject>
+     <tpObject>534,623,425,0,Have relatively short life spans</tpObject>
+     <tpObject>43,669,466,0,Invest energy in the growth of large, strong structures</tpObject>
+     <tpObject>534,675,434,0,Have populations that are unstable in response to climate conditions</tpObject>
+     <tpObject>43,709,466,0,Can rarely find suitable soil for reproduction</tpObject>
+     <tpObject>534,733,434,0,Produce individuals that can withstand changes in the environmental conditions</tpObject>
+     <tpObject>43,748,466,0,Reproduce in large numbers</tpObject>
+</tpObject_list>
+<offset>-115,-72</offset>
+<bucketSize>692,107</bucketSize>
+<tpBucket_list>
+     <tpBucket>367,208</tpBucket>
+     <tpBucket>367,261</tpBucket>
+     <tpBucket>367,312</tpBucket>
+     <tpBucket>367,363</tpBucket>
+     <tpBucket>367,421</tpBucket>
+     <tpBucket>367,475</tpBucket>
+     <tpBucket>367,525</tpBucket>
+     <tpBucket>38,574</tpBucket>
+     <tpBucket>529,571</tpBucket>
+     <tpBucket>39,624</tpBucket>
+     <tpBucket>529,623</tpBucket>
+     <tpBucket>38,669</tpBucket>
+     <tpBucket>529,675</tpBucket>
+     <tpBucket>38,709</tpBucket>
+     <tpBucket>529,733</tpBucket>
+     <tpBucket>38,748</tpBucket>
+</tpBucket_list>
+<Key></Key>
+
+<specialShowAnswer>3,4,6,9,2,5,8,1,0,0,0,0,0,7,0</specialShowAnswer>
+<Key>4;NO_ORDER_SPLIT_4:3,4,6,9,2,5,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,4,6,9,*,5,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,4,6,9,2,*,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,4,6,9,2,5,*</Key>
+<Key>3;NO_ORDER_SPLIT_4:*,4,6,9,2,5,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,*,6,9,2,5,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,4,*,9,2,5,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,4,6,*,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,*,6,9,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,4,*,9,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,4,6,*,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,4,6,9,*,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,4,6,9,2,*,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,4,6,9,2,5,*</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,*,*,9,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,*,6,*,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,*,6,9,*,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,*,6,9,2,*,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,*,6,9,2,5,*</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,*,*,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,*,9,*,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,*,9,2,8,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,*,9,2,5,*</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,*,*,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,*,2,*,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,*,2,5,*</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,9,*,*,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,9,*,5,*</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,9,2,*,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,*,*,9,2,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,*,6,*,2,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,*,6,9,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,*,6,9,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,*,6,9,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,*,*,2,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,*,9,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,*,9,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,*,9,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,*,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,*,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,*,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,9,*,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,9,*,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,9,2,*,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,*,*,2,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,*,9,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,*,9,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,*,9,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,*,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,*,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,*,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,9,*,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,9,*,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,9,2,*,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,*,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,*,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,*,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,9,*,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,9,*,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,9,2,*,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,6,*,*,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,6,*,*,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,6,*,2,*,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,6,9,*,*,*</Key>
+
+</TestItem>

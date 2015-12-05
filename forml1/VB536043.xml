@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<TPPassage>VB536043.txt</TPPassage>
+<TPTopScrollLine>44</TPTopScrollLine>
+<Stem>The word |massive| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>huge</Distractor>
+  <Distractor>ancient</Distractor>
+  <Distractor>common</Distractor>
+  <Distractor>successful</Distractor>
+</Distractor_list>
+
+<Key> 1</Key>
+</TestItem>

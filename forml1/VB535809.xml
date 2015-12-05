@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503242</itemGroup>
+<TPPassage>VB535809.txt</TPPassage>
+<TPTopScrollLine>58</TPTopScrollLine>
+<Stem>The word |project| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>estimate</Distractor>
+  <Distractor>respond</Distractor>
+  <Distractor>argue</Distractor>
+  <Distractor>plan</Distractor>
+</Distractor_list>
+
+<Key> 1</Key>
+</TestItem>

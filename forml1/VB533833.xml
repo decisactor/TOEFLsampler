@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533833.txt</TPPassage>
+<Stem>What are the bones found in the Lascaux caves believed to indicate?</Stem>
+<Distractor_list>
+  <Distractor>Wild animals sometimes lived in the cave chambers.</Distractor>
+  <Distractor>Artists painted pictures on both walls and bones.</Distractor>
+  <Distractor>Artists ground them into a fine powder to make paint.</Distractor>
+  <Distractor>Artists developed special techniques for painting the walls.</Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key> 4</Key>
+</TestItem>

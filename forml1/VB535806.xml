@@ -1,0 +1,16 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503242</itemGroup>
+<Paragraph>5</Paragraph>
+<TPTopScrollLine>20</TPTopScrollLine>
+<TPPassage>VB535806.txt</TPPassage>
+<Stem>In paragraph 5, why does the author give details about the estimated numbers of birds killed each year?</Stem>
+<Distractor_list>
+  <Distractor>To argue that wind farms should not be built along ridge lines</Distractor>
+  <Distractor>To point out that the deaths of migratory birds exceed the deaths of birds of prey</Distractor>
+  <Distractor>To explain why some environmentalists oppose wind energy</Distractor>
+  <Distractor>To suggest that wind turbines result in relatively few bird deaths</Distractor>
+</Distractor_list>
+
+<Key> 4</Key>
+</TestItem>

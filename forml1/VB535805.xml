@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<TPTopScrollLine>11</TPTopScrollLine>
+<itemGroup>VB503242</itemGroup>
+<TPPassage>VB535805.txt</TPPassage>
+<Stem>Which of the sentences below best expresses the essential information in the highlighted sentence in the passage?  Incorrect choices change the meaning in important ways or leave out essential information.</Stem>
+<Distractor_list>
+  <Distractor>Hawks, falcons, and eagles prefer to hunt along ridge lines, where wind turbines can kill large numbers of migratory birds.</Distractor>
+  <Distractor>Wind turbines occasionally cause migratory birds to change their flight patterns and therefore may interfere with the areas where birds of prey prefer to hunt.</Distractor>
+  <Distractor>Some of the best locations for large wind farms are places that may cause problems for migrating birds and birds of prey.</Distractor>
+  <Distractor>Large wind farms in certain areas kill hawks, falcons, and eagles and thus might create a more ideal path for the flight of migratory birds.</Distractor>
+</Distractor_list>
+
+<Key> 3</Key>
+</TestItem>

@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503560</itemGroup>
+<Stem>What can be inferred about magma that remains deep inside the Earth's surface?</Stem>
+<StemWav>VB501973_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>It does not contain some of the materials necessary for mineral formation.</Distractor>
+  <Distractor>Its mineral composition is constantly changing.</Distractor>
+  <Distractor>Mineral formation cannot occur in it.</Distractor>
+  <Distractor>It does not rise toward the Earth's surface until minerals have begun to form in it.</Distractor>
+</Distractor_list>
+<Key>3</Key>
+</TestItem>

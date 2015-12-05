@@ -1,0 +1,11 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533983.txt</TPPassage>
+<Stem>Look at the four squares [ |   | ] that indicate where the following sentence can be added to the passage.</Stem>
+<Distractor_list>
+   <Distractor>This made it easy for the artists to paint and display them for the rest of the cave dwellers. </Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key>1</Key>
+</TestItem>

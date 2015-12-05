@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503242</itemGroup>
+<TPPassage>VB535808.txt</TPPassage>
+<TPTopScrollLine>46</TPTopScrollLine>
+<Stem>The phrase |amount to| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>can identify</Distractor>
+  <Distractor>change</Distractor>
+  <Distractor>are reduced by</Distractor>
+  <Distractor>total</Distractor>
+</Distractor_list>
+
+<Key> 4</Key>
+</TestItem>

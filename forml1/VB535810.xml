@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503242</itemGroup>
+<TPPassage>VB535810.txt</TPPassage>
+<Stem>Which of the following statements most accurately reflects the author's opinion about wind energy?</Stem>
+<Distractor_list>
+  <Distractor>Wind energy production should be limited to large wind farms.</Distractor>
+  <Distractor>The advantages of wind energy outweigh the disadvantages.</Distractor>
+  <Distractor>The technology to make wind energy safe and efficient will not be ready until the middle of the twenty-first century.</Distractor>
+  <Distractor>Wind energy will eventually supply many countries with most of their electricity.</Distractor>
+</Distractor_list>
+
+<Key> 2</Key>
+</TestItem>

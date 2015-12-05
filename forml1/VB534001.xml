@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503242</itemGroup>
+<TPPassage>VB534001.txt</TPPassage>
+<TPTopScrollLine>41</TPTopScrollLine>
+<Stem>The phrase |this problem| in the passage refers to</Stem>
+<Distractor_list>
+  <Distractor>interference with the flight patterns of migrating birds in certain areas</Distractor>
+  <Distractor>building ridge lines that are ideal for wind turbines</Distractor>
+  <Distractor>the killing of birds of prey by wind turbines</Distractor>
+  <Distractor>meeting the demands of environmentalists who promote renewable wind energy</Distractor>
+</Distractor_list>
+
+<Key> 3</Key>
+</TestItem>

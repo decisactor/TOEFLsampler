@@ -1,0 +1,18 @@
+<TestItem CLASS="speaking_fake_sampler" METHOD="list" TIMELIMIT="60" PREPLIMIT="20" SHOWDIRECTIONS="FALSE">
+<skillDimension>unknown</skillDimension>
+<itemGroup></itemGroup>
+<Stem>The students discuss two possible solutions to the woman's problem.  Describe the problem. Then state which of the two solutions you prefer and explain why.</Stem>
+<StemWav>VB531100_a03.wav</StemWav>
+
+<miniLecture>
+  <LecturePicture>Ctab01_jpg.jpg</LecturePicture>
+  <LecturePicture>Ctab01_jpg.jpg</LecturePicture>
+  <LecturePicture>GetRead3_gif.gif</LecturePicture>
+  <LectureSound>VB531100_a01.wav</LectureSound>
+  <LectureSound>VB531100_a02.wav</LectureSound>
+</miniLecture>
+<Distractor_list>
+</Distractor_list>
+<ExampleWav>VB531100_example.wav</ExampleWav>
+<ExampleDescription>This is a very high-level response. The speaker provides a complete response to the question. She briefly summarizes the problem and both possible solutions. She then states the solution that she prefers (to make a schedule) and provides a clear explanation of why she believes this is the best solution. Her response is clearly organized and very easy for the listener to follow. Her pronunciation is good; she makes very few mistakes. Her vocabulary and grammar are appropriate to the task; she uses complex structures accurately and with ease.  Overall, the response is well developed and clear.</ExampleDescription>
+</TestItem>

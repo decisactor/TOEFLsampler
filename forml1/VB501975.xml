@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503560</itemGroup>
+<Stem>What happens when magma cools very rapidly?</Stem>
+<StemWav>VB501975_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>Minerals are formed in a random sequence.</Distractor>
+  <Distractor>A brittle glass material is formed.</Distractor>
+  <Distractor>Tiny crystals are bonded together in an orderly pattern.</Distractor>
+  <Distractor>Unusually large crystals are formed.</Distractor>
+</Distractor_list>
+<Key>2</Key>
+</TestItem>

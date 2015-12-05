@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB496835</itemGroup>
+<Stem>Why does the professor change his mind about when he will lend the woman the video?</Stem>
+<StemWav>VB535816_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>He remembers that he does not have the video in his office.</Distractor>
+  <Distractor>He realizes that the woman does not have a VCR.</Distractor>
+  <Distractor>He is worried that he will not have the video back in time for his class.</Distractor>
+  <Distractor>He realizes that he will not need the video until the following week.</Distractor>
+</Distractor_list>
+<Key>3</Key>
+</TestItem>

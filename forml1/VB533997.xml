@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503242</itemGroup>
+<Paragraph>3</Paragraph>
+<TPPassage>VB533997.txt</TPPassage>
+<Stem>According to paragraph 3, which of the following is true about periods when the demand for electricity is relatively low?</Stem>
+<Distractor_list>
+  <Distractor>These periods are times when wind turbines are powered by hydrogen gas.</Distractor>
+  <Distractor>These periods provide the opportunity to produce and store energy for future use.</Distractor>
+  <Distractor>These periods create storage problems for all forms of power generation.</Distractor>
+  <Distractor>These periods occur as often as periods when the demand for electricity is high.</Distractor>
+</Distractor_list>
+
+<Key> 2</Key>
+</TestItem>

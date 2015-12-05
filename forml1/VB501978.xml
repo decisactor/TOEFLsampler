@@ -1,0 +1,13 @@
+<TestItem CLASS="2smc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503560</itemGroup>
+<Stem>According to the professor, what did Bowen's experiment demonstrate about mineral formation?</Stem>
+<StemWav>VB501978_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>That different mixtures of magma freeze at different temperatures</Distractor>
+  <Distractor>That different minerals can be formed from the same mixture of magma</Distractor>
+  <Distractor>That different rates of cooling produce different sizes of mineral crystals</Distractor>
+  <Distractor>That different minerals are formed at different temperatures of magma</Distractor>
+</Distractor_list>
+<Key>10</Key>
+</TestItem>

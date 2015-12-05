@@ -1,0 +1,8 @@
+<TestItem CLASS="independentwriting_paced_fake" METHOD="list" TIMELIMIT="30" SHOWDIRECTIONS="FALSE">
+<skillDimension>unknown</skillDimension>
+<itemGroup></itemGroup>
+<Stem> Question: Do you agree or disagree with the following statement? Always telling the truth is the most important consideration in any relationship between people. Use specific reasons and examples to support your answer.</Stem>
+<StemWav></StemWav>
+<Distractor_list>
+</Distractor_list>
+</TestItem>

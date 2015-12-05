@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533837.txt</TPPassage>
+<Stem>Why does the author mention |secret ceremonies|?</Stem>
+<Distractor_list>
+  <Distractor>To present a common opinion held by many scholars</Distractor>
+  <Distractor>To suggest a similarity between two opinions held by scholars</Distractor>
+  <Distractor>To suggest a possible explanation for a weakness in an opinion expressed in the passage</Distractor>
+  <Distractor>To give evidence that contradicts a major opinion expressed in the passage</Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key> 3</Key>
+</TestItem>

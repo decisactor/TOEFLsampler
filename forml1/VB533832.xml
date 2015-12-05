@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533832.txt</TPPassage>
+<Stem>The word |Methods| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>Ways</Distractor>
+  <Distractor>Shades</Distractor>
+  <Distractor>Stages</Distractor>
+  <Distractor>Rules</Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key> 1</Key>
+</TestItem>

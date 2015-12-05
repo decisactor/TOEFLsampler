@@ -1,0 +1,7 @@
+<TestItem CLASS="view_this_passage_noquest" METHOD="list" TIMELIMIT="0">
+<itemGroup>VB503242</itemGroup>
+<TPPassage>
+  VB503242.txt
+</TPPassage>
+
+</TestItem>

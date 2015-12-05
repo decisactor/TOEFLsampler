@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB501739</itemGroup>
+<TPPassage>VB533834.txt</TPPassage>
+<Paragraph>2</Paragraph>
+<Stem>Why does the author mention Bushmen in South Africa in paragraph 2?</Stem>
+<Distractor_list>
+  <Distractor>To suggest that ancient artists from all over the world painted animals on rocks</Distractor>
+  <Distractor>To contrast the location of their rock paintings to those found at Lascaux</Distractor>
+  <Distractor>To support the claim that early artists worked in cramped spaces</Distractor>
+  <Distractor>To give an example of other artists who painted in hidden locations</Distractor>
+</Distractor_list>
+<Glossary>holy people who act as healers and diviners</Glossary>
+<Key> 2</Key>
+</TestItem>

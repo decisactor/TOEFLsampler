@@ -1,0 +1,14 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503560</itemGroup>
+<StupidAudioFile>VB501972_a02.wav</StupidAudioFile>
+<Stem>What does the professor mean when he says this:  </Stem>
+<StemWav>VB501972_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>He will not be able to complete his discussion of the crystallization process today.</Distractor>
+  <Distractor>He is going to present information differently from how he had originally planned.</Distractor>
+  <Distractor>He forgot that he had already told the class what the four processes are.</Distractor>
+  <Distractor>He will discuss all four processes in class today.</Distractor>
+</Distractor_list>
+<Key>2</Key>
+</TestItem>

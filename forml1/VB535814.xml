@@ -1,0 +1,38 @@
+<TestItem CLASS="draggy" METHOD="list">
+<TPviewtext PASSAGE="VB535814.txt">
+</TPviewtext>
+<tpFont>Arial,12,0</tpFont>
+<QuestBmp>VB535814.bmp</QuestBmp>
+<Comment>Drag your answer choices to the spaces where they belong.</Comment>
+<tpObject_list>
+     <tpObject>43,574,454,0,Wind farms have already produced sufficient amounts of electricity to suggest that wind power could become an important source of electric power.</tpObject>
+     <tpObject>534,571,444,0,The wind energy produced by just a small number of states could supply all of the power needs of the United States.</tpObject>
+     <tpObject>44,649,454,0,Wind power has several advantages, such as low pollution and projected cost declines, compared to other energy sources.</tpObject>
+     <tpObject>534,650,425,0,Although wind power is not economical in areas with steady winds, alternative wind sources can be used to simulate wind power.</tpObject>
+     <tpObject>43,728,466,0,Responding to environmentalists concerned about birds killed by wind turbines, analysts point to other human developments that are even more dangerous to birds.</tpObject>
+     <tpObject>534,729,434,0,Smaller countries, which use less electricity than large countries, are especially suited to use wind power to meet all their energy needs.</tpObject>
+</tpObject_list>
+<offset>-115,-72</offset>
+<bucketSize>692,137</bucketSize>
+<tpBucket_list>
+     <tpBucket>297,321</tpBucket>
+     <tpBucket>297,407</tpBucket>
+     <tpBucket>297,495</tpBucket>
+     <tpBucket>38,574</tpBucket>
+     <tpBucket>529,571</tpBucket>
+     <tpBucket>39,649</tpBucket>
+     <tpBucket>529,650</tpBucket>
+     <tpBucket>38,728</tpBucket>
+     <tpBucket>529,729</tpBucket>
+</tpBucket_list>
+<Key></Key>
+
+<specialShowAnswer>1,3,5,0,2,0,4,0,6,</specialShowAnswer>
+<Key>2;NO_ORDER,1,3,5</Key>
+<Key>1;NO_ORDER,*,3,5</Key>
+<Key>1;NO_ORDER,1,*,5</Key>
+<Key>1;NO_ORDER,1,3,*</Key>
+
+
+
+</TestItem>

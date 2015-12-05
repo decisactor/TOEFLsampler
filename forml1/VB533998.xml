@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB503242</itemGroup>
+<Paragraph>4</Paragraph>
+<TPPassage>VB533998.txt</TPPassage>
+<Stem>In paragraph 4, the author states that in areas where winds are not steady</Stem>
+<Distractor_list>
+  <Distractor>power does not reach all customers</Distractor>
+  <Distractor>wind farms cannot be used</Distractor>
+  <Distractor>solar power is more appropriate</Distractor>
+  <Distractor>backup systems are needed</Distractor>
+</Distractor_list>
+
+<Key> 4</Key>
+</TestItem>

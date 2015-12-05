@@ -1,0 +1,20 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB496835</itemGroup>
+<StupidAudioFile>VB535818_a04.wav</StupidAudioFile>
+<Stem>Why does the professor say this: </Stem>
+<StemWav>VB535818_a03.wav</StemWav>
+<miniLecture>
+  <LecturePicture>RplayCon_gif.gif</LecturePicture>
+  <LecturePicture>Poff02_jpg.jpg</LecturePicture>
+  <LectureSound>VB535818_a01.wav</LectureSound>
+  <LectureSound>VB535818_a02.wav</LectureSound>
+</miniLecture>
+<Distractor_list>
+  <Distractor>To indicate that he is not concerned about the woman's absence</Distractor>
+  <Distractor>To assure the woman that her absence will not affect her grade</Distractor>
+  <Distractor>To indicate that he has finished discussing the woman's absence</Distractor>
+  <Distractor>To encourage the woman to explain why she was absent</Distractor>
+</Distractor_list>
+<Key>4</Key>
+</TestItem>

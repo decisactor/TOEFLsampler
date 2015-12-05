@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VB510653</itemGroup>
+<TPPassage>VB536019.txt</TPPassage>
+<Stem>According to the passage, the classification of organisms as `opportunists or competitors`   is determined by</Stem>
+<Distractor_list>
+  <Distractor>how the genetic information of  an organism is stored and maintained</Distractor>
+  <Distractor>the way in which the organism invests its energy resources</Distractor>
+  <Distractor>whether the climate in which the organism lives is mild or extreme</Distractor>
+  <Distractor>the variety of natural resources the organism consumes in its environment</Distractor>
+</Distractor_list>
+
+<Key> 2</Key>
+</TestItem>

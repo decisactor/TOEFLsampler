@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<Paragraph>3 and 4</Paragraph>
+<itemGroup>VB503242</itemGroup>
+<TPPassage>VB533995.txt</TPPassage>
+<Stem>Based on the information in paragraph 3 and paragraph 4, what can be inferred about the states of North Dakota, South Dakota, and Texas mentioned at the end of paragraph 1?</Stem>
+<Distractor_list>
+  <Distractor>They rely largely on coal-fired power plants.</Distractor>
+  <Distractor>They contain remote areas where the winds rarely die down.</Distractor>
+  <Distractor>Over 1 percent of the electricity in these states is produced by wind farms.</Distractor>
+  <Distractor>Wind farms in these states are being expanded to meet the power needs of the United States.</Distractor>
+</Distractor_list>
+
+<Key> 2</Key>
+</TestItem>
